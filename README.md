@@ -1,6 +1,6 @@
 # FINAL-PROJECT
 STEPS TO BE FOLLOWED:-
-STEP1: Unzip the folder first as its converted into zip file due to larger file size.
+STEP1: Unzip the folder first as its converted into zip file due to larger file size. \n
 STEP2: Open command prompt (cmd) and set location root folder.
 STEP3: Write (code .)  which will open the file in vs code.
 STEP4: Add new terminal and then split it into two terminal simaltaenously.
